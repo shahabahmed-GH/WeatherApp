@@ -1,8 +1,15 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model WeatherApp.Models.WeatherModel
+<h2>Weather App	</h2>
+<form method="post">	
+	<input type="text" name="city" placeholder="Enter City name" />
+	<button type="Submit">Search</button>
+</form>
+@if (Model.Error != null)
+{
+	<p style="color:red">@Model.Error</p>
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@if (Model.City != null)
+{
+	<h3>@Model.City</h3>
+	<p>Temperature: @Model.TempC °C / @Model.TempF °F</p>
+}

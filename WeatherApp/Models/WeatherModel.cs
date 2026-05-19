@@ -2,9 +2,9 @@
 {
     public class WeatherModel
     {
-        public string cityName {  get; set; }
-        public float tempC {  get; set; }
-        public float tempF { get; set; }
-        public string error { get; set; }
+        public string City {  get; set; }
+        public double TempC {  get; set; }
+        public double TempF { get; set; }
+        public string Error { get; set; }
     }
 }

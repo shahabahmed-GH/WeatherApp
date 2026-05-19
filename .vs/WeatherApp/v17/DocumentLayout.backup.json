@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\C# Test\\WeatherApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|f:\\c# test\\weatherapp\\weatherapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|f:\\c# test\\weatherapp\\weatherapp\\models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|f:\\c# test\\weatherapp\\weatherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|f:\\c# test\\weatherapp\\weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|f:\\c# test\\weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D87922-EEA2-4AA9-9854-58DB40E4AE88}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C# Test\\WeatherApp\\WeatherApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherApp\\appsettings.json",
+              "ToolTip": "F:\\C# Test\\WeatherApp\\WeatherApp\\appsettings.json",
+              "RelativeToolTip": "WeatherApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T20:44:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Test\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Program.cs",
+              "ToolTip": "F:\\C# Test\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeToolTip": "WeatherApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T20:32:32.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C# Test\\WeatherApp\\WeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\C# Test\\WeatherApp\\WeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T20:28:12.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\C# Test\\WeatherApp\\WeatherApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\C# Test\\WeatherApp\\WeatherApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T20:09:36.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherModel.cs",
+              "DocumentMoniker": "F:\\C# Test\\WeatherApp\\WeatherApp\\Models\\WeatherModel.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Models\\WeatherModel.cs",
+              "ToolTip": "F:\\C# Test\\WeatherApp\\WeatherApp\\Models\\WeatherModel.cs",
+              "RelativeToolTip": "WeatherApp\\Models\\WeatherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:09:42.436Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
