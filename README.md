@@ -12,7 +12,7 @@
 <img src="Ui.png" width="500" />
 
 ### 🌡️ Weather Result
-<img src="Ui1.png" width="500" />
+<img src="Ui2.png" width="500" />
 
 ## 🛠️ Tech Stack
 C# | ASP.NET Core MVC | OpenWeatherMap API | Razor Views | .NET 8
